@@ -5,25 +5,25 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 from google import genai
 
-# Fuentes abiertas: medios especializados, Reddit y puentes RSS de filtradores de X
+# Fuentes abiertas: medios especializados, Reddit y publicaciones indexadas de filtradores en X
 FUENTES = [
     "https://www.sammobile.com/feed/",
     "https://9to5google.com/guides/samsung/feed/",
+    "https://www.androidauthority.com/feed/",
     "https://www.reddit.com/r/samsung/top/.rss?t=week",
     "https://www.reddit.com/r/GalaxyS24/top/.rss?t=week",
-    "https://nitter.poast.org/UniverseIce/rss",
-    "https://nitter.poast.org/tarunvats33/rss",
-    "https://nitter.poast.org/MaxJmb/rss"
+    "https://news.google.com/rss/search?q=site:x.com+UniverseIce+OR+tarunvats33+OR+MaxJmb+Samsung&hl=en-US&gl=US&ceid=US:en"
 ]
 
 def obtener_titulares():
     recopilacion = []
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    # Identificador personalizado para evitar bloqueos 429 en Reddit
+    headers = {'User-Agent': 'python:samsung-weekly-radar:v1.0 (by /u/11flematic)'}
     
     for url in FUENTES:
         try:
             req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=10) as resp:
+            with urllib.request.urlopen(req, timeout=12) as resp:
                 xml_data = resp.read()
                 root = ET.fromstring(xml_data)
                 items = root.findall('.//item')[:8] or root.findall('.//{http://www.w3.org/2005/Atom}entry')[:8]
@@ -76,7 +76,7 @@ def generar_resumen(texto_bruto):
     """
     
     response = client.models.generate_content(
-        model='gemini-2.5-flash',
+        model='gemini-3.0-flash',
         contents=prompt
     )
     
