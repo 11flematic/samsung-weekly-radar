@@ -5,20 +5,18 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 from google import genai
 
-# Fuentes abiertas: medios especializados, Reddit y publicaciones indexadas de filtradores en X
+# Fuentes abiertas: medios especializados, comunidad Reddit y filtradores clave de X
 FUENTES = [
     "https://www.sammobile.com/feed/",
     "https://9to5google.com/guides/samsung/feed/",
     "https://www.androidauthority.com/feed/",
-    "https://www.reddit.com/r/samsung/top/.rss?t=week",
-    "https://www.reddit.com/r/GalaxyS24/top/.rss?t=week",
+    "https://news.google.com/rss/search?q=site:reddit.com/r/samsung+OR+site:reddit.com/r/GalaxyS24&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=site:x.com+UniverseIce+OR+tarunvats33+OR+MaxJmb+Samsung&hl=en-US&gl=US&ceid=US:en"
 ]
 
 def obtener_titulares():
     recopilacion = []
-    # Identificador personalizado para evitar bloqueos 429 en Reddit
-    headers = {'User-Agent': 'python:samsung-weekly-radar:v1.0 (by /u/11flematic)'}
+    headers = {'User-Agent': 'Mozilla/5.0 (compatible; SamsungRadarBot/1.0)'}
     
     for url in FUENTES:
         try:
@@ -40,8 +38,29 @@ def obtener_titulares():
             
     return "\n".join(recopilacion)
 
+def elegir_modelo_flash(client):
+    try:
+        disponibles = [
+            m.name.replace("models/", "")
+            for m in client.models.list()
+            if "flash" in m.name.lower()
+            and "lite" not in m.name.lower()
+            and "image" not in m.name.lower()
+            and "audio" not in m.name.lower()
+        ]
+        for preferido in ["gemini-3-flash", "gemini-3-flash-preview", "gemini-2.5-flash"]:
+            if preferido in disponibles:
+                return preferido
+        if disponibles:
+            return disponibles[0]
+    except Exception:
+        pass
+    return "gemini-3-flash"
+
 def generar_resumen(texto_bruto):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    modelo = elegir_modelo_flash(client)
+    print(f"Usando modelo: {modelo}")
     
     prompt = f"""
     Eres un analista experto en el ecosistema Samsung. Analiza estos titulares, tuits y posts de esta semana y crea un resumen ejecutivo en español, directo, sin relleno y bien estructurado.
@@ -76,7 +95,7 @@ def generar_resumen(texto_bruto):
     """
     
     response = client.models.generate_content(
-        model='gemini-3.0-flash',
+        model=modelo,
         contents=prompt
     )
     
