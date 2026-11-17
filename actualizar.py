@@ -16,7 +16,9 @@ FUENTES = [
 
 def obtener_titulares():
     recopilacion = []
-    headers = {'User-Agent': 'Mozilla/5.0 (compatible; SamsungRadarBot/1.0)'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
+    }
     
     for url in FUENTES:
         try:
@@ -38,29 +40,36 @@ def obtener_titulares():
             
     return "\n".join(recopilacion)
 
-def elegir_modelo_flash(client):
+def obtener_candidatos_modelo(client):
+    candidatos = []
+    excluidos = ("embedding", "imagen", "veo", "tts", "audio", "image", "aqa", "robotics", "computer-use")
     try:
-        disponibles = [
-            m.name.replace("models/", "")
-            for m in client.models.list()
-            if "flash" in m.name.lower()
-            and "lite" not in m.name.lower()
-            and "image" not in m.name.lower()
-            and "audio" not in m.name.lower()
-        ]
-        for preferido in ["gemini-3-flash", "gemini-3-flash-preview", "gemini-2.5-flash"]:
-            if preferido in disponibles:
-                return preferido
-        if disponibles:
-            return disponibles[0]
-    except Exception:
-        pass
-    return "gemini-3-flash"
+        for m in client.models.list():
+            nombre = m.name.replace("models/", "")
+            if "gemini" in nombre.lower() and not any(x in nombre.lower() for x in excluidos):
+                candidatos.append(nombre)
+    except Exception as e:
+        print(f"Error listando modelos: {e}")
+
+    def prioridad(nombre):
+        if nombre == "gemini-2.5-flash":
+            return 99
+        if "3" in nombre and "flash" in nombre:
+            return 1
+        if "flash-lite" in nombre:
+            return 2
+        if "flash" in nombre:
+            return 3
+        if "3" in nombre:
+            return 4
+        return 5
+
+    candidatos.sort(key=prioridad)
+    print(f"Modelos candidatos detectados: {candidatos}")
+    return candidatos or ["gemini-2.5-flash-lite", "gemini-2.0-flash"]
 
 def generar_resumen(texto_bruto):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-    modelo = elegir_modelo_flash(client)
-    print(f"Usando modelo: {modelo}")
     
     prompt = f"""
     Eres un analista experto en el ecosistema Samsung. Analiza estos titulares, tuits y posts de esta semana y crea un resumen ejecutivo en español, directo, sin relleno y bien estructurado.
@@ -94,13 +103,21 @@ def generar_resumen(texto_bruto):
     {texto_bruto}
     """
     
-    response = client.models.generate_content(
-        model=modelo,
-        contents=prompt
-    )
-    
-    limpio = response.text.strip().removeprefix("```json").removesuffix("```").strip()
-    return json.loads(limpio)
+    ultimo_error = None
+    for modelo in obtener_candidatos_modelo(client):
+        try:
+            print(f"Probando modelo: {modelo}")
+            response = client.models.generate_content(
+                model=modelo,
+                contents=prompt
+            )
+            limpio = response.text.strip().removeprefix("```json").removesuffix("```").strip()
+            return json.loads(limpio)
+        except Exception as e:
+            print(f"No disponible {modelo}: {e}")
+            ultimo_error = e
+
+    raise RuntimeError(f"Ningún modelo pudo generar el resumen. Último error: {ultimo_error}")
 
 if __name__ == "__main__":
     noticias = obtener_titulares()
