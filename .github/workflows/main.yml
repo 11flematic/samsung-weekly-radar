@@ -1,6 +1,10 @@
 name: Actualizar Noticias Samsung
 
 on:
+  push:
+    paths:
+      - '.github/workflows/**'
+      - 'actualizar.py'
   schedule:
     - cron: '0 */8 * * *'
   workflow_dispatch:
