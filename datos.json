@@ -1,30 +1,32 @@
 {
-  "fecha_actualizacion": "17/11/2026 15:37",
-  "titular_semana": "El ecosistema Galaxy se prepara para One UI 9.5 y el rediseño confirmado de la serie S27",
+  "fecha_actualizacion": "17/11/2026 16:51",
+  "titular_semana": "Confirmado el rediseño del Galaxy S27 mientras avanzan las funciones de IA en One UI 9.5",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Despliegue masivo de One UI 9.0 en dispositivos como la serie Tab S10, Galaxy A24 y Galaxy Watch8, mientras comienzan a circular las primeras novedades sobre One UI 9.5.",
+      "resumen": "Se han filtrado detalles clave de One UI 9.5, que promete animaciones renovadas y nuevas funcionalidades de productividad, incluyendo una mejor integración de teclado inteligente y optimización de la interfaz en la app de Teléfono. Por otro lado, ha comenzado el despliegue de One UI 9 Watch para el Galaxy Watch8 en Europa.",
       "puntos_clave": [
-        "One UI 9.5 integrará animaciones renovadas y una nueva pestaña de búsqueda inferior en la app de Teléfono.",
-        "Se reporta la posible integración de la función 'Rambler' de IA en el teclado de Samsung."
+        "One UI 9.5 integrará la función 'Rambler' de IA en el teclado.",
+        "Rediseño de la interfaz en la app Teléfono con nueva pestaña de búsqueda inferior.",
+        "Inicia el despliegue de la actualización One UI 9 Watch en Europa."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Confirmación del rediseño radical para la serie Galaxy S27 y desarrollo de nuevos accesorios de audio.",
+      "resumen": "Se ha confirmado el rediseño físico para los modelos Galaxy S27 Pro y Ultra. Además, surgieron detalles sobre unos nuevos auriculares 'Galaxy Studio' y el desarrollo de un concepto de smartphone con pantalla de formato variable (16:9 a 21:9).",
       "puntos_clave": [
-        "Diseño final del Galaxy S27 confirmado con diferencias claras de tamaño entre los modelos Pro y Ultra.",
-        "Filtración de los auriculares 'Galaxy Studio' con controles táctiles y nuevo diseño.",
-        "Desarrollo de pantallas extensibles (16:9 a 21:9) y diseño de pantalla sin biseles en estudio."
+        "Confirmación total del nuevo lenguaje de diseño para la serie S27.",
+        "Avance en el desarrollo de auriculares 'Galaxy Studio' con controles táctiles.",
+        "Rumores sobre prototipos de pantallas extensibles de formato ajustable."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios debaten sobre la monetización de funciones IA y problemas de estabilidad en funciones de sistema.",
+      "resumen": "La comunidad muestra preocupación ante posibles modelos de suscripción para funciones de IA en cámaras de alta gama. Existe también un debate activo sobre bugs en el 'Modo Sueño' y críticas sobre la estrategia de hardware frente a la competencia.",
       "puntos_clave": [
-        "Malestar general ante el rumor de límites gratuitos en 'Photo Assist' para teléfonos premium.",
-        "Quejas persistentes en Reddit sobre bugs en el 'Modo Sueño' y la integración de copias de seguridad en Google Photos."
+        "Rechazo generalizado ante el posible límite diario de 2 fotos en 'Photo Assist' para dispositivos premium.",
+        "Reportes de usuarios sobre fallos persistentes en el Modo Sueño.",
+        "Escepticismo sobre la innovación en sensores de cámara comparado con la competencia."
       ]
     }
   ]
