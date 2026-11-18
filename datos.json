@@ -1,32 +1,35 @@
 {
-  "fecha_actualizacion": "18/11/2026 08:52",
-  "titular_semana": "Lanzamiento de la beta de One UI 9.5 y filtraciones del diseño del Galaxy S27",
+  "fecha_actualizacion": "18/11/2026 16:53",
+  "titular_semana": "Lanzamiento de la beta de One UI 9.5 con foco en animaciones y rediseño de interfaz",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el programa beta de One UI 9.5 para la serie Galaxy S26 en seis países. La actualización destaca por la integración de nuevas funciones de IA, mejoras en la personalización de audio y la esperada introducción de bloqueo nativo de aplicaciones.",
+      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras significativas en animaciones, personalización de pantalla de bloqueo y funciones de salud.",
       "puntos_clave": [
-        "Inauguración de la beta de One UI 9.5 para Galaxy S26.",
-        "Nuevas funciones: Bloqueo de apps nativo, Daily Briefing mejorado y gestión de tonos de llamada.",
-        "Implementación de limitaciones de pago en funciones de Galaxy AI como Photo Assist."
+        "Nuevas animaciones fluidas y efectos de profundidad en fondos de pantalla.",
+        "Implementación de 'App Lock' nativo y función 'Tap to Share'.",
+        "Rediseño del panel de control de la cámara para mayor accesibilidad.",
+        "Expansión de One UI 9.0 (Android 17) a tablets como la Tab Active 5 Pro y Tab A11+."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Intensa actividad de filtraciones sobre la futura línea S27, confirmando un cambio de diseño significativo, junto con el desarrollo de nuevos accesorios como los Galaxy Studio headphones y tecnología de pantallas extensibles.",
+      "resumen": "Intensa actividad de filtraciones sobre la futura serie Galaxy S27, confirmando cambios radicales en el diseño y sensores de cámara, además de nuevos accesorios de audio.",
       "puntos_clave": [
-        "Confirmación de rediseño total para el Galaxy S27 Pro y Ultra.",
-        "Desarrollo de pantallas extensibles (ratio 16:9 a 21:9).",
-        "Filtración de los auriculares 'Galaxy Studio' con controles táctiles."
+        "Confirmación de un rediseño total en la línea S27, incluyendo pantallas 'bezel-less'.",
+        "Filtración de sensores de cámara para los modelos S27, Plus, Pro y Ultra.",
+        "Próximo lanzamiento de auriculares 'Galaxy Studio' con controles táctiles.",
+        "Colaboración estratégica con Meta para el suministro de chips de memoria personalizados para IA."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La comunidad muestra opiniones divididas sobre las nuevas políticas de pago de Galaxy AI y el rendimiento de las herramientas de software actuales.",
+      "resumen": "La comunidad muestra opiniones mixtas en plataformas como Reddit y X, valorando el salto en fluidez de One UI 9.5, pero reportando problemas de rendimiento tras actualizaciones recientes.",
       "puntos_clave": [
-        "Preocupación por la monetización de funciones de edición fotográfica (Photo Assist).",
-        "Feedback positivo sobre la renovación estética de las animaciones en One UI 9.5.",
-        "Críticas recurrentes al funcionamiento del 'Modo Sueño' y reportes de usuarios sobre la utilidad de los nuevos SmartTag 3."
+        "Alta aceptación de las nuevas animaciones de One UI 9.5, consideradas más dinámicas.",
+        "Quejas persistentes por errores en el modo 'Sleep' y degradación de rendimiento en modelos S24 tras parches de noviembre.",
+        "Críticas al servicio técnico por los prolongados tiempos de espera en reparaciones.",
+        "Debate activo sobre el posible establecimiento de 'paywalls' para funciones avanzadas de Galaxy AI."
       ]
     }
   ]
