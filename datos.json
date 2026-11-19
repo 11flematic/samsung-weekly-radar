@@ -1,35 +1,34 @@
 {
-  "fecha_actualizacion": "18/11/2026 16:53",
-  "titular_semana": "Lanzamiento de la beta de One UI 9.5 con foco en animaciones y rediseño de interfaz",
+  "fecha_actualizacion": "19/11/2026 00:49",
+  "titular_semana": "Lanzamiento global de la beta de One UI 9.5 y filtraciones del diseño radical para la serie Galaxy S27",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras significativas en animaciones, personalización de pantalla de bloqueo y funciones de salud.",
+      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26 en mercados clave como Corea, Reino Unido, Polonia, India y Alemania. Esta versión incluye un rediseño en la interfaz de la cámara, nuevas funciones de salud como 'Mindful note' y mejoras de seguridad con visualización de IMEI en pantalla de bloqueo. Paralelamente, se han liberado actualizaciones a One UI 9.0 para la línea Galaxy Tab (A11+, S10 FE, Active 5 Pro).",
       "puntos_clave": [
-        "Nuevas animaciones fluidas y efectos de profundidad en fondos de pantalla.",
-        "Implementación de 'App Lock' nativo y función 'Tap to Share'.",
-        "Rediseño del panel de control de la cámara para mayor accesibilidad.",
-        "Expansión de One UI 9.0 (Android 17) a tablets como la Tab Active 5 Pro y Tab A11+."
+        "Despliegue internacional de la beta de One UI 9.5 para S26.",
+        "Cambios en cámara (controles simplificados) y seguridad (IMEI en pantalla de bloqueo).",
+        "Actualizaciones de software en curso para tablets Galaxy Tab A y S.",
+        "Indicios tempranos de One UI 10 detectados en el firmware actual."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Intensa actividad de filtraciones sobre la futura serie Galaxy S27, confirmando cambios radicales en el diseño y sensores de cámara, además de nuevos accesorios de audio.",
+      "resumen": "La atención se centra en el Galaxy S27, donde filtraciones apuntan a un cambio de diseño '100% confirmado' que incluiría una estética 'bezel-less' (sin marcos). Se han revelado detalles de sensores de cámara para los modelos S27, Plus, Pro y Ultra. Además, se filtraron los próximos auriculares 'Galaxy Studio' con controles táctiles y se confirma la existencia de una edición especial de Galaxy Z Fold 8 con temática de GTA VI.",
       "puntos_clave": [
-        "Confirmación de un rediseño total en la línea S27, incluyendo pantallas 'bezel-less'.",
-        "Filtración de sensores de cámara para los modelos S27, Plus, Pro y Ultra.",
-        "Próximo lanzamiento de auriculares 'Galaxy Studio' con controles táctiles.",
-        "Colaboración estratégica con Meta para el suministro de chips de memoria personalizados para IA."
+        "Nuevo lenguaje de diseño 'bezel-less' para la serie Galaxy S27.",
+        "Revelación de sensores de cámara para toda la familia S27.",
+        "Filtración de auriculares Galaxy Studio (dos colores, control táctil).",
+        "Edición exclusiva de Galaxy Z Fold 8 inspirada en GTA VI."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La comunidad muestra opiniones mixtas en plataformas como Reddit y X, valorando el salto en fluidez de One UI 9.5, pero reportando problemas de rendimiento tras actualizaciones recientes.",
+      "resumen": "Los usuarios en redes sociales reportan opiniones mixtas sobre el rendimiento tras las actualizaciones recientes, con quejas específicas sobre el modo 'Sleep' y posibles degradaciones de rendimiento en modelos como el S24. Hay una recepción curiosa hacia el nuevo SmartTag3 y debate sobre los límites de las funciones pagas de Galaxy AI (Now Brief).",
       "puntos_clave": [
-        "Alta aceptación de las nuevas animaciones de One UI 9.5, consideradas más dinámicas.",
-        "Quejas persistentes por errores en el modo 'Sleep' y degradación de rendimiento en modelos S24 tras parches de noviembre.",
-        "Críticas al servicio técnico por los prolongados tiempos de espera en reparaciones.",
-        "Debate activo sobre el posible establecimiento de 'paywalls' para funciones avanzadas de Galaxy AI."
+        "Reportes de bugs en el modo 'Sleep' y bajadas de rendimiento en dispositivos previos.",
+        "Debate activo sobre el modelo de suscripción y limitaciones de Galaxy AI.",
+        "Interés por la integración de nuevas funciones de ecosistema tras las actualizaciones de firmware."
       ]
     }
   ]
