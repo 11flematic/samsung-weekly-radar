@@ -1,34 +1,33 @@
 {
-  "fecha_actualizacion": "19/11/2026 00:49",
-  "titular_semana": "Lanzamiento global de la beta de One UI 9.5 y filtraciones del diseño radical para la serie Galaxy S27",
+  "fecha_actualizacion": "19/11/2026 08:53",
+  "titular_semana": "Lanzamiento global de la beta de One UI 9.5 y filtraciones sobre el diseño del Galaxy S27",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26 en mercados clave como Corea, Reino Unido, Polonia, India y Alemania. Esta versión incluye un rediseño en la interfaz de la cámara, nuevas funciones de salud como 'Mindful note' y mejoras de seguridad con visualización de IMEI en pantalla de bloqueo. Paralelamente, se han liberado actualizaciones a One UI 9.0 para la línea Galaxy Tab (A11+, S10 FE, Active 5 Pro).",
+      "resumen": "Samsung ha iniciado el programa beta de One UI 9.5 para la serie Galaxy S26 en mercados clave como Corea, Reino Unido, India y Alemania, introduciendo mejoras estéticas y funcionales significativas.",
       "puntos_clave": [
-        "Despliegue internacional de la beta de One UI 9.5 para S26.",
-        "Cambios en cámara (controles simplificados) y seguridad (IMEI en pantalla de bloqueo).",
-        "Actualizaciones de software en curso para tablets Galaxy Tab A y S.",
-        "Indicios tempranos de One UI 10 detectados en el firmware actual."
+        "Nuevas animaciones de desbloqueo y fondos de pantalla 3D en la pantalla de bloqueo.",
+        "Interfaz de cámara simplificada y modo de grabación nativa 'open gate' (full-sensor).",
+        "Capacidad para grabar panorámicas de 360 grados combinando cámaras frontal y trasera.",
+        "Primeros rastros de One UI 10 detectados en el firmware de la versión 9.5."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "La atención se centra en el Galaxy S27, donde filtraciones apuntan a un cambio de diseño '100% confirmado' que incluiría una estética 'bezel-less' (sin marcos). Se han revelado detalles de sensores de cámara para los modelos S27, Plus, Pro y Ultra. Además, se filtraron los próximos auriculares 'Galaxy Studio' con controles táctiles y se confirma la existencia de una edición especial de Galaxy Z Fold 8 con temática de GTA VI.",
+      "resumen": "El ecosistema de hardware se prepara para una renovación estética total en la próxima generación, con confirmaciones sobre el diseño del Galaxy S27 y nuevos accesorios.",
       "puntos_clave": [
-        "Nuevo lenguaje de diseño 'bezel-less' para la serie Galaxy S27.",
-        "Revelación de sensores de cámara para toda la familia S27.",
-        "Filtración de auriculares Galaxy Studio (dos colores, control táctil).",
-        "Edición exclusiva de Galaxy Z Fold 8 inspirada en GTA VI."
+        "Diseño '100% confirmado' para el Galaxy S27, que destacará por una pantalla sin biseles.",
+        "Filtraciones de los 'Galaxy Studio', auriculares con controles táctiles y resistencia IP68.",
+        "Los Galaxy Buds Active incluirán ganchos para el oído y cancelación de ruido, aunque con omisiones técnicas no especificadas."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios en redes sociales reportan opiniones mixtas sobre el rendimiento tras las actualizaciones recientes, con quejas específicas sobre el modo 'Sleep' y posibles degradaciones de rendimiento en modelos como el S24. Hay una recepción curiosa hacia el nuevo SmartTag3 y debate sobre los límites de las funciones pagas de Galaxy AI (Now Brief).",
+      "resumen": "Los usuarios mantienen un debate activo en plataformas como Reddit sobre la evolución de la IA y el rendimiento de las funciones de automatización actuales.",
       "puntos_clave": [
-        "Reportes de bugs en el modo 'Sleep' y bajadas de rendimiento en dispositivos previos.",
-        "Debate activo sobre el modelo de suscripción y limitaciones de Galaxy AI.",
-        "Interés por la integración de nuevas funciones de ecosistema tras las actualizaciones de firmware."
+        "Preocupación por las limitaciones y el modelo de pago de Galaxy AI (Now Brief).",
+        "Quejas persistentes en la comunidad sobre fallos en la función 'Sleep Mode' tras las últimas actualizaciones.",
+        "Interés moderado tras las primeras impresiones del SmartTag3."
       ]
     }
   ]
