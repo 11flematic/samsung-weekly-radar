@@ -1,33 +1,32 @@
 {
-  "fecha_actualizacion": "19/11/2026 08:53",
-  "titular_semana": "Lanzamiento global de la beta de One UI 9.5 y filtraciones sobre el diseño del Galaxy S27",
+  "fecha_actualizacion": "19/11/2026 16:53",
+  "titular_semana": "Lanzamiento de One UI 9.5 Beta y filtraciones sobre el diseño del Galaxy S27 marcan la agenda",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el programa beta de One UI 9.5 para la serie Galaxy S26 en mercados clave como Corea, Reino Unido, India y Alemania, introduciendo mejoras estéticas y funcionales significativas.",
+      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5, centrada en mejorar las animaciones del sistema y simplificar la interfaz de la cámara para la serie Galaxy S26.",
       "puntos_clave": [
-        "Nuevas animaciones de desbloqueo y fondos de pantalla 3D en la pantalla de bloqueo.",
-        "Interfaz de cámara simplificada y modo de grabación nativa 'open gate' (full-sensor).",
-        "Capacidad para grabar panorámicas de 360 grados combinando cámaras frontal y trasera.",
-        "Primeros rastros de One UI 10 detectados en el firmware de la versión 9.5."
+        "Nuevas animaciones fluidas en la transición de pantalla de bloqueo a inicio.",
+        "Rediseño del control de cámara para una navegación más limpia.",
+        "Aparición de indicios sobre el diseño de One UI 10 con estética de cristal translúcido."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "El ecosistema de hardware se prepara para una renovación estética total en la próxima generación, con confirmaciones sobre el diseño del Galaxy S27 y nuevos accesorios.",
+      "resumen": "Aumentan los rumores sobre el rediseño radical del Galaxy S27 y el desarrollo de nuevos productos periféricos tras la llegada de la versión beta.",
       "puntos_clave": [
-        "Diseño '100% confirmado' para el Galaxy S27, que destacará por una pantalla sin biseles.",
-        "Filtraciones de los 'Galaxy Studio', auriculares con controles táctiles y resistencia IP68.",
-        "Los Galaxy Buds Active incluirán ganchos para el oído y cancelación de ruido, aunque con omisiones técnicas no especificadas."
+        "Confirmación de un rediseño importante para la línea Galaxy S27 con un panel frontal 'sin marcos'.",
+        "Filtración de los próximos auriculares Galaxy Buds Active y Galaxy Studio en el código de One UI 9.5.",
+        "Desarrollo en curso de laptops Android equipadas con procesadores Snapdragon X Elite y funciones de Galaxy AI."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios mantienen un debate activo en plataformas como Reddit sobre la evolución de la IA y el rendimiento de las funciones de automatización actuales.",
+      "resumen": "Los usuarios expresan opiniones mixtas sobre la estabilidad de las versiones beta y el impacto de los cambios de software en la experiencia diaria.",
       "puntos_clave": [
-        "Preocupación por las limitaciones y el modelo de pago de Galaxy AI (Now Brief).",
-        "Quejas persistentes en la comunidad sobre fallos en la función 'Sleep Mode' tras las últimas actualizaciones.",
-        "Interés moderado tras las primeras impresiones del SmartTag3."
+        "Reportes de errores en animaciones del Panel Rápido y problemas de rendimiento post-actualización en modelos anteriores.",
+        "Debate sobre las limitaciones de funciones de Galaxy AI bajo modelos de suscripción (Now Brief).",
+        "Expectativa ante la futura obligatoriedad de Google para que los desarrolladores optimicen apps en dispositivos plegables."
       ]
     }
   ]
