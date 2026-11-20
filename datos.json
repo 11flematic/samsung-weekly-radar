@@ -1,32 +1,32 @@
 {
-  "fecha_actualizacion": "20/11/2026 08:51",
-  "titular_semana": "Samsung renueva su cúpula directiva y despliega la beta de One UI 9.5 con nuevas funciones inteligentes",
+  "fecha_actualizacion": "20/11/2026 16:48",
+  "titular_semana": "Samsung inicia la transición hacia One UI 9.5 y reorganiza su división móvil",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie S26, introduciendo mejoras visuales, una cámara simplificada y herramientas avanzadas de seguridad y conducción.",
+      "resumen": "Lanzamiento oficial de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras visuales, animaciones de desbloqueo más fluidas y una interfaz de cámara simplificada. Se ha confirmado la llegada de parches de seguridad de noviembre para los modelos A56 y A26, además de un despliegue de firmware propio para portátiles Googlebook.",
       "puntos_clave": [
-        "Lanzamiento de One UI 9.5 beta con nuevas animaciones de desbloqueo y fondos de pantalla 3D.",
-        "Introducción de 'Driving Report' para evaluar fatiga y App Lock nativo.",
-        "Séptima actualización beta para One UI 9 Watch en los modelos Watch 7 y Ultra."
+        "Beta de One UI 9.5 ya disponible para la serie S26.",
+        "Nuevas animaciones de pantalla de bloqueo y rediseño de cámara.",
+        "Parches de seguridad de noviembre para Galaxy A56 y A26."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Se consolidan los rumores sobre el rediseño de la serie Galaxy S27 y la expansión del ecosistema de portátiles y accesorios.",
+      "resumen": "Emergen detalles sobre los sensores de cámara de la futura serie Galaxy S27 y rumores sobre un diseño 'sin marcos'. Won-Joon Choi asume el liderazgo de la división móvil en un cambio ejecutivo clave. Mientras tanto, Samsung pierde cuota de mercado en monitores OLED frente a MSI y se observan descuentos agresivos en los Galaxy Watch 8 y 9.",
       "puntos_clave": [
-        "Filtraciones sobre sensores de cámara para el S27, S27+ y S27 Ultra.",
-        "Avistamiento de los futuros auriculares 'Galaxy Buds Active' dentro del código de One UI 9.5.",
-        "Confirmación del desarrollo de nuevos ordenadores portátiles bajo arquitectura Android."
+        "Won-Joon Choi nombrado nuevo líder de la división móvil.",
+        "Confirmación de sensores para la familia S27 (S27, S27+, S27 Pro, S27 Ultra).",
+        "Ofertas agresivas en el ecosistema Galaxy Watch."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios reaccionan positivamente a los cambios de interfaz, aunque existe preocupación por el rendimiento tras actualizaciones y la gestión del servicio técnico.",
+      "resumen": "La comunidad reporta problemas de rendimiento tras las últimas actualizaciones y descontento con las restricciones del 'Modo Sueño'. El debate sobre la implementación de funciones de pago en Galaxy AI (como 'Now Brief') genera preocupación entre los usuarios, mientras se anticipan las primeras pistas sobre la ambiciosa hoja de ruta de One UI 10.",
       "puntos_clave": [
-        "Expectativa ante el nombramiento de Won-Joon Choi como nuevo jefe de la división móvil.",
-        "Debate sobre los límites de pago de Galaxy AI (limitaciones en 'Now Brief').",
-        "Reportes mixtos en Reddit sobre bugs de rendimiento tras las últimas actualizaciones en modelos anteriores."
+        "Quejas en Reddit sobre degradación de rendimiento post-actualización.",
+        "Preocupación por la monetización de funciones en Galaxy AI.",
+        "Especulaciones tempranas sobre la interfaz de One UI 10."
       ]
     }
   ]
