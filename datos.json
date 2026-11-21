@@ -1,32 +1,32 @@
 {
-  "fecha_actualizacion": "21/11/2026 00:44",
-  "titular_semana": "Lanzamiento de One UI 9.5 Beta y relevo generacional en la cúpula directiva de Samsung Mobile",
+  "fecha_actualizacion": "21/11/2026 08:40",
+  "titular_semana": "Lanzamiento de One UI 9.5 Beta y relevo generacional en la división móvil de Samsung",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras visuales y funcionales significativas.",
+      "resumen": "Samsung ha iniciado el programa beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras en la interfaz de cámara, bloqueo de aplicaciones y funciones de intercambio rápido, además de soporte nativo para fondos de pantalla 3D.",
       "puntos_clave": [
-        "Nueva interfaz simplificada para la cámara y rediseño de controles.",
-        "Implementación de animaciones fluidas en el desbloqueo de pantalla y fondos de pantalla 3D nativos.",
-        "Primeros indicios encontrados en el firmware de una futura interfaz One UI 10."
+        "Lanzamiento de One UI 9.5 Beta para Galaxy S26.",
+        "Nuevas funciones: App Lock y Tap to Share.",
+        "Indicios de One UI 10 detectados en el firmware actual."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Se oficializa el cambio en el liderazgo de la división móvil y surgen preocupaciones sobre el incremento de precios en dispositivos de gama media.",
+      "resumen": "Surgen detalles sobre el posible rediseño de la barra de notificaciones para el futuro Galaxy S27, emulando un estilo tipo 'Dynamic Island'. Paralelamente, se confirma un cambio de mando con Won-Joon Choi liderando la división móvil.",
       "puntos_clave": [
-        "Won-Joon Choi asume el mando de la división Samsung Mobile como parte de la reestructuración ejecutiva de 2027.",
-        "Se prevé un aumento de precios en los dispositivos Galaxy de gama media.",
-        "Emergen detalles sobre la estrategia de monetización de Galaxy AI, con limitaciones iniciales en funciones como 'Now Brief'."
+        "Potencial rediseño de la barra de estado en el Galaxy S27.",
+        "Cambio en la dirección ejecutiva móvil para 2027.",
+        "Reportes sugieren un incremento de precios en la gama media/económica."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios reportan problemas de rendimiento tras actualizaciones recientes y frustraciones con el soporte postventa.",
+      "resumen": "Los usuarios expresan descontento con errores de rendimiento tras actualizaciones recientes y problemas específicos con funciones de reposo, mientras persisten consultas sobre durabilidad de dispositivos plegables.",
       "puntos_clave": [
-        "Quejas sobre degradación del rendimiento en dispositivos S24 post-actualización y fallos en el modo 'Sleep'.",
-        "Debates sobre la política de reparaciones y la falta de dispositivos de sustitución durante el proceso.",
-        "Interés sostenido por las ofertas actuales en Galaxy Watch 8 y 9."
+        "Reportes de degradación de rendimiento en Galaxy S24 post-actualización.",
+        "Quejas sobre el modo de sueño y ruidos en bisagras de modelos Z Fold.",
+        "Interés activo en ofertas vigentes para Galaxy Watch 8 y 9."
       ]
     }
   ]
