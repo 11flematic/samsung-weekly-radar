@@ -1,32 +1,32 @@
 {
-  "fecha_actualizacion": "20/11/2026 16:48",
-  "titular_semana": "Samsung inicia la transición hacia One UI 9.5 y reorganiza su división móvil",
+  "fecha_actualizacion": "21/11/2026 00:44",
+  "titular_semana": "Lanzamiento de One UI 9.5 Beta y relevo generacional en la cúpula directiva de Samsung Mobile",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Lanzamiento oficial de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras visuales, animaciones de desbloqueo más fluidas y una interfaz de cámara simplificada. Se ha confirmado la llegada de parches de seguridad de noviembre para los modelos A56 y A26, además de un despliegue de firmware propio para portátiles Googlebook.",
+      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras visuales y funcionales significativas.",
       "puntos_clave": [
-        "Beta de One UI 9.5 ya disponible para la serie S26.",
-        "Nuevas animaciones de pantalla de bloqueo y rediseño de cámara.",
-        "Parches de seguridad de noviembre para Galaxy A56 y A26."
+        "Nueva interfaz simplificada para la cámara y rediseño de controles.",
+        "Implementación de animaciones fluidas en el desbloqueo de pantalla y fondos de pantalla 3D nativos.",
+        "Primeros indicios encontrados en el firmware de una futura interfaz One UI 10."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Emergen detalles sobre los sensores de cámara de la futura serie Galaxy S27 y rumores sobre un diseño 'sin marcos'. Won-Joon Choi asume el liderazgo de la división móvil en un cambio ejecutivo clave. Mientras tanto, Samsung pierde cuota de mercado en monitores OLED frente a MSI y se observan descuentos agresivos en los Galaxy Watch 8 y 9.",
+      "resumen": "Se oficializa el cambio en el liderazgo de la división móvil y surgen preocupaciones sobre el incremento de precios en dispositivos de gama media.",
       "puntos_clave": [
-        "Won-Joon Choi nombrado nuevo líder de la división móvil.",
-        "Confirmación de sensores para la familia S27 (S27, S27+, S27 Pro, S27 Ultra).",
-        "Ofertas agresivas en el ecosistema Galaxy Watch."
+        "Won-Joon Choi asume el mando de la división Samsung Mobile como parte de la reestructuración ejecutiva de 2027.",
+        "Se prevé un aumento de precios en los dispositivos Galaxy de gama media.",
+        "Emergen detalles sobre la estrategia de monetización de Galaxy AI, con limitaciones iniciales en funciones como 'Now Brief'."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La comunidad reporta problemas de rendimiento tras las últimas actualizaciones y descontento con las restricciones del 'Modo Sueño'. El debate sobre la implementación de funciones de pago en Galaxy AI (como 'Now Brief') genera preocupación entre los usuarios, mientras se anticipan las primeras pistas sobre la ambiciosa hoja de ruta de One UI 10.",
+      "resumen": "Los usuarios reportan problemas de rendimiento tras actualizaciones recientes y frustraciones con el soporte postventa.",
       "puntos_clave": [
-        "Quejas en Reddit sobre degradación de rendimiento post-actualización.",
-        "Preocupación por la monetización de funciones en Galaxy AI.",
-        "Especulaciones tempranas sobre la interfaz de One UI 10."
+        "Quejas sobre degradación del rendimiento en dispositivos S24 post-actualización y fallos en el modo 'Sleep'.",
+        "Debates sobre la política de reparaciones y la falta de dispositivos de sustitución durante el proceso.",
+        "Interés sostenido por las ofertas actuales en Galaxy Watch 8 y 9."
       ]
     }
   ]
