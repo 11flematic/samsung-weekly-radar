@@ -1,32 +1,34 @@
 {
-  "fecha_actualizacion": "21/11/2026 08:40",
-  "titular_semana": "Lanzamiento de One UI 9.5 Beta y relevo generacional en la división móvil de Samsung",
+  "fecha_actualizacion": "21/11/2026 16:35",
+  "titular_semana": "Samsung inicia nueva era directiva y despliega la beta de One UI 9.5 con cambios visuales clave",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el programa beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras en la interfaz de cámara, bloqueo de aplicaciones y funciones de intercambio rápido, además de soporte nativo para fondos de pantalla 3D.",
+      "resumen": "Samsung ha lanzado la versión beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras estéticas y funcionales significativas. La capa de personalización se centra en la fluidez, adoptando animaciones de desbloqueo avanzadas, control simplificado de cámara y nuevas funciones de seguridad y conectividad.",
       "puntos_clave": [
-        "Lanzamiento de One UI 9.5 Beta para Galaxy S26.",
-        "Nuevas funciones: App Lock y Tap to Share.",
-        "Indicios de One UI 10 detectados en el firmware actual."
+        "Inclusión de App Lock y función 'Tap to Share'.",
+        "Nuevas animaciones de desbloqueo y fondos de pantalla 3D nativos.",
+        "Interfaz de cámara rediseñada para facilitar el acceso a controles.",
+        "Confirmación de que Samsung gestionará sus propias actualizaciones de firmware para laptops Googlebook."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Surgen detalles sobre el posible rediseño de la barra de notificaciones para el futuro Galaxy S27, emulando un estilo tipo 'Dynamic Island'. Paralelamente, se confirma un cambio de mando con Won-Joon Choi liderando la división móvil.",
+      "resumen": "Las filtraciones apuntan a una evolución en el diseño del próximo Galaxy S27, que podría integrar una barra de estado dinámica similar a la 'Dynamic Island'. Paralelamente, se ha oficializado el nombramiento de Won-Joon Choi como nuevo responsable de la división móvil, con el objetivo estratégico de captar al público joven.",
       "puntos_clave": [
-        "Potencial rediseño de la barra de estado en el Galaxy S27.",
-        "Cambio en la dirección ejecutiva móvil para 2027.",
-        "Reportes sugieren un incremento de precios en la gama media/económica."
+        "Posible rediseño de la 'Now Bar' al estilo Dynamic Island en el S27.",
+        "Won-Joon Choi asume el liderazgo de la división móvil para renovar la marca.",
+        "Reportes sugieren un incremento en los precios de los dispositivos Galaxy de gama media/económica.",
+        "Primeras referencias visuales de One UI 10 con estética de cristal translúcido."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios expresan descontento con errores de rendimiento tras actualizaciones recientes y problemas específicos con funciones de reposo, mientras persisten consultas sobre durabilidad de dispositivos plegables.",
+      "resumen": "La comunidad muestra gran entusiasmo por la fluidez de las nuevas animaciones en la beta de One UI 9.5. Por otro lado, persiste el interés por las ofertas de Black Friday en wearables y se debate sobre la durabilidad a largo plazo de los dispositivos plegables tras los reportes de ruidos mecánicos en modelos como el Fold 8.",
       "puntos_clave": [
-        "Reportes de degradación de rendimiento en Galaxy S24 post-actualización.",
-        "Quejas sobre el modo de sueño y ruidos en bisagras de modelos Z Fold.",
-        "Interés activo en ofertas vigentes para Galaxy Watch 8 y 9."
+        "Alta expectación por la mejora en las animaciones de interfaz en One UI 9.5.",
+        "Debate activo sobre técnicas de mantenimiento para prevenir sonidos en bisagras de plegables.",
+        "Interés comercial masivo en las rebajas de Galaxy Watch 7 y 8 por Black Friday."
       ]
     }
   ]
