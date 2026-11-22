@@ -1,34 +1,32 @@
 {
-  "fecha_actualizacion": "21/11/2026 16:35",
-  "titular_semana": "Samsung inicia nueva era directiva y despliega la beta de One UI 9.5 con cambios visuales clave",
+  "fecha_actualizacion": "22/11/2026 00:35",
+  "titular_semana": "Samsung inicia nueva era con Won-Joon Choi y despliega la beta de One UI 9.5",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha lanzado la versión beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras estéticas y funcionales significativas. La capa de personalización se centra en la fluidez, adoptando animaciones de desbloqueo avanzadas, control simplificado de cámara y nuevas funciones de seguridad y conectividad.",
+      "resumen": "Samsung ha iniciado el programa beta de One UI 9.5, introduciendo mejoras visuales, rediseños en la interfaz de cámara y nuevas animaciones de desbloqueo, además de prepararse para futuras actualizaciones en portátiles Googlebook.",
       "puntos_clave": [
-        "Inclusión de App Lock y función 'Tap to Share'.",
-        "Nuevas animaciones de desbloqueo y fondos de pantalla 3D nativos.",
-        "Interfaz de cámara rediseñada para facilitar el acceso a controles.",
-        "Confirmación de que Samsung gestionará sus propias actualizaciones de firmware para laptops Googlebook."
+        "Lanzamiento de One UI 9.5 beta para la serie Galaxy S26.",
+        "Nuevas animaciones de transición Lock Screen-to-Home y fondos de pantalla 3D nativos.",
+        "Interfaz de cámara simplificada para reducir el scroll."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Las filtraciones apuntan a una evolución en el diseño del próximo Galaxy S27, que podría integrar una barra de estado dinámica similar a la 'Dynamic Island'. Paralelamente, se ha oficializado el nombramiento de Won-Joon Choi como nuevo responsable de la división móvil, con el objetivo estratégico de captar al público joven.",
+      "resumen": "Se perfila un cambio de mando en la división móvil con Won-Joon Choi y surgen detalles sobre el diseño de la futura serie Galaxy S27, que podría integrar una barra de estado dinámica al estilo 'Dynamic Island'.",
       "puntos_clave": [
-        "Posible rediseño de la 'Now Bar' al estilo Dynamic Island en el S27.",
-        "Won-Joon Choi asume el liderazgo de la división móvil para renovar la marca.",
-        "Reportes sugieren un incremento en los precios de los dispositivos Galaxy de gama media/económica.",
-        "Primeras referencias visuales de One UI 10 con estética de cristal translúcido."
+        "Won-Joon Choi asume el liderazgo de la división móvil de Samsung.",
+        "Posible rediseño de la 'Now Bar' en el Galaxy S27 inspirado en la Dynamic Island.",
+        "Reportes sugieren un incremento en los precios de los dispositivos Galaxy de gama media."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La comunidad muestra gran entusiasmo por la fluidez de las nuevas animaciones en la beta de One UI 9.5. Por otro lado, persiste el interés por las ofertas de Black Friday en wearables y se debate sobre la durabilidad a largo plazo de los dispositivos plegables tras los reportes de ruidos mecánicos en modelos como el Fold 8.",
+      "resumen": "Los usuarios expresan preocupación por el rendimiento tras las últimas actualizaciones y problemas técnicos específicos en hardware plegable y accesorios.",
       "puntos_clave": [
-        "Alta expectación por la mejora en las animaciones de interfaz en One UI 9.5.",
-        "Debate activo sobre técnicas de mantenimiento para prevenir sonidos en bisagras de plegables.",
-        "Interés comercial masivo en las rebajas de Galaxy Watch 7 y 8 por Black Friday."
+        "Reportes de degradación de rendimiento y drenaje de batería tras actualizaciones en S24 y S23.",
+        "Dudas sobre el mantenimiento a largo plazo de los Galaxy Z Fold, incluyendo ruidos en la bisagra.",
+        "Disponibilidad de ofertas agresivas por Black Friday en Galaxy Watch 7 y Watch 8."
       ]
     }
   ]
