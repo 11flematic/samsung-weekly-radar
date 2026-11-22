@@ -1,32 +1,32 @@
 {
-  "fecha_actualizacion": "22/11/2026 08:41",
-  "titular_semana": "Samsung inicia era de cambios ejecutivos, lanza One UI 9.5 beta y prepara rediseño visual para el S27",
+  "fecha_actualizacion": "22/11/2026 16:36",
+  "titular_semana": "One UI 9.5 en fase beta y filtraciones de diseño para el Galaxy S27 marcan la agenda",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo cambios en la interfaz de cámara, nuevas animaciones de desbloqueo y mejoras en la gestión de firmware, incluyendo soporte para portátiles Googlebook.",
+      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26 y Tab S12, introduciendo cambios significativos en la interfaz y preparando el terreno para una futura transición a One UI 10, de la cual ya se han visto indicios gráficos.",
       "puntos_clave": [
-        "Lanzamiento de One UI 9.5 beta con controles de cámara simplificados.",
-        "Nuevas animaciones de transición entre pantalla de bloqueo y pantalla de inicio.",
-        "Reportes de bugs iniciales: pérdida de animaciones en el panel rápido."
+        "Despliegue de la beta de One UI 9.5 en dispositivos seleccionados.",
+        "Indicios de One UI 10 con texturas de vidrio esmerilado detectados en el firmware actual.",
+        "Samsung asumirá la distribución de actualizaciones propias para portátiles Googlebook."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Surgen detalles sobre el Galaxy S27, apuntando a una nueva barra de estado estilo 'Dynamic Island'. En el ámbito corporativo, Won-Joon Choi asume el liderazgo de la división móvil para impulsar el atractivo de la marca ante el público joven.",
+      "resumen": "Se rumorea un rediseño de la 'Now Bar' en el Galaxy S27 inspirado en la Dynamic Island, junto con la posible inclusión de herramientas de generación de video con IA integradas.",
       "puntos_clave": [
-        "Potencial rediseño del sistema de notificaciones similar a Dynamic Island en S27.",
-        "Cambio en la dirección de la división móvil con el nombramiento de Won-Joon Choi.",
-        "Especulación sobre incremento de precios en modelos de gama media."
+        "Nueva 'Now Bar' estilo Dynamic Island para el Galaxy S27.",
+        "Función 'Shorts' y generación de video por IA en desarrollo.",
+        "Reportes sugieren un incremento en los precios de los dispositivos Galaxy de gama media."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios en redes sociales reportan problemas de rendimiento y batería tras actualizaciones recientes, mientras persiste la curiosidad técnica sobre el mantenimiento físico de dispositivos plegables y accesorios.",
+      "resumen": "Los usuarios reportan una recepción mixta de la beta de One UI 9.5, destacando principalmente la eliminación de animaciones en el panel de notificaciones y problemas de rendimiento post-actualización en algunos modelos.",
       "puntos_clave": [
-        "Quejas sobre drenaje de batería tras actualizar a versiones recientes de One UI.",
-        "Debates sobre el mantenimiento y ruidos mecánicos en dispositivos plegables.",
-        "Fuertes descuentos en wearables (Galaxy Watch 7/8) por la temporada de ofertas."
+        "Quejas sobre la pérdida de fluidez en las animaciones del panel rápido.",
+        "Debates sobre el rendimiento de las actualizaciones según el procesador (Exynos vs Snapdragon).",
+        "Ofertas agresivas de Black Friday impulsando la venta de los Galaxy Watch 7 y 9."
       ]
     }
   ]
