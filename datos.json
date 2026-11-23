@@ -1,34 +1,33 @@
 {
-  "fecha_actualizacion": "23/11/2026 09:08",
-  "titular_semana": "Despliegue de One UI 9.5 Beta, reestructuración en la división móvil y posible cambio de estrategia en wearables.",
+  "fecha_actualizacion": "23/11/2026 17:56",
+  "titular_semana": "Reorganización ejecutiva en Samsung Mobile y despliegue del beta One UI 9.5",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha lanzado la Beta 1 de One UI 9.5 para la serie Galaxy S26, una actualización masiva con casi 2.800 cambios que prioriza la seguridad, la optimización de llamadas y nuevas herramientas multimedia impulsadas por IA.",
+      "resumen": "Samsung ha iniciado la fase beta de One UI 9.5 para la serie Galaxy S26, introduciendo nuevas animaciones de desbloqueo y mejoras visuales.",
       "puntos_clave": [
-        "Nueva función 'Shorts' en Galería para generar vídeos breves automáticamente a partir de fotografías.",
-        "Mayor seguridad: no se permitirá desactivar el Bloqueador Automático (Auto Blocker) durante las llamadas.",
-        "Las aplicaciones de mensajería podrán usar más datos móviles de fondo para optimizar la calidad de las llamadas.",
-        "Filtraciones en el firmware muestran indicios de One UI 10 con un rediseño translúcido efecto 'cristal esmerilado'."
+        "Lanzamiento de One UI 9.5 Beta para Galaxy S26.",
+        "Nuevas animaciones de transición entre pantalla de bloqueo y pantalla de inicio.",
+        "Se han hallado indicios tempranos de One UI 10 con diseño de vidrio esmerilado en el firmware actual."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "La división móvil (MX) de Samsung afronta cambios de liderazgo con Choi Won-joon al frente, mientras la compañía reconsidera sus ciclos de lanzamiento de hardware y mencione formalmente nuevos dispositivos.",
+      "resumen": "Cambios importantes en la hoja de ruta de lanzamientos y nueva dirección en la división móvil.",
       "puntos_clave": [
-        "Samsung contempla pasar a un ciclo de lanzamiento de dos años para la serie Galaxy Watch a partir de 2027.",
-        "Primera mención oficial por parte de Samsung de la pulsera cuantificadora Galaxy Fit 4.",
-        "Filtraciones apuntan a un rediseño de la 'Now Bar' al estilo Dynamic Island a partir de los Galaxy S27.",
-        "Informes señalan un aumento inevitable de precios en los dispositivos de gama media y entrada (serie Galaxy A)."
+        "Won-Joon Choi asume la dirección de la división móvil de Samsung.",
+        "Posible salto del Galaxy Watch en 2027 debido a presiones financieras.",
+        "Se reporta que el Galaxy A38 podría reciclar sensores de cámara antiguos.",
+        "Se filtran detalles de cámaras para los futuros Galaxy Z Flip 9 y Fold 9/Ultra."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La comunidad prueba las primeras versiones beta mientras reporta problemas de rendimiento tras parches recientes y comparte impresiones sobre los últimos accesorios de la marca.",
+      "resumen": "Debate intenso sobre la posible implementación de una función tipo 'Dynamic Island' y preocupación por el aumento de precios en dispositivos de gama media.",
       "puntos_clave": [
-        "Bugs reportados en One UI 9.5 Beta 1, destacando fallos y la desaparición de animaciones fluidas en el Panel Rápido.",
-        "Quejas de usuarios por caídas de rendimiento en los Galaxy S24 tras las últimas actualizaciones y demoras de hasta 2 semanas en el servicio técnico.",
-        "Primeras impresiones del SmartTag3 recibidas con curiosidad en Reddit y dudas recurrentes sobre la degradación de baterías por carga rápida."
+        "Usuarios debaten si Samsung debería adoptar una 'Dynamic Island' o mantener la identidad de One UI.",
+        "Inquietud ante el reporte de que los dispositivos Galaxy de bajo costo serán más caros en el futuro.",
+        "Tendencia positiva sobre el rendimiento de batería en la serie Z Fold 8."
       ]
     }
   ]
