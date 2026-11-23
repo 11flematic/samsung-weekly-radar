@@ -1,32 +1,34 @@
 {
-  "fecha_actualizacion": "23/11/2026 00:41",
-  "titular_semana": "Samsung acelera el desarrollo de One UI 9.5 y prepara un cambio de diseño en el Galaxy S27",
+  "fecha_actualizacion": "23/11/2026 09:08",
+  "titular_semana": "Despliegue de One UI 9.5 Beta, reestructuración en la división móvil y posible cambio de estrategia en wearables.",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 para la serie Galaxy S26, introduciendo mejoras de rendimiento y ajustes en la interfaz, mientras empiezan a circular los primeros indicios visuales sobre una futura evolución a One UI 10.",
+      "resumen": "Samsung ha lanzado la Beta 1 de One UI 9.5 para la serie Galaxy S26, una actualización masiva con casi 2.800 cambios que prioriza la seguridad, la optimización de llamadas y nuevas herramientas multimedia impulsadas por IA.",
       "puntos_clave": [
-        "Lanzamiento de One UI 9.5 beta para Galaxy S26.",
-        "Hallazgos en el firmware sugieren una renovación estética para One UI 10.",
-        "Samsung asumirá la distribución de parches para portátiles Googlebook."
+        "Nueva función 'Shorts' en Galería para generar vídeos breves automáticamente a partir de fotografías.",
+        "Mayor seguridad: no se permitirá desactivar el Bloqueador Automático (Auto Blocker) durante las llamadas.",
+        "Las aplicaciones de mensajería podrán usar más datos móviles de fondo para optimizar la calidad de las llamadas.",
+        "Filtraciones en el firmware muestran indicios de One UI 10 con un rediseño translúcido efecto 'cristal esmerilado'."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Los rumores sobre el Galaxy S27 apuntan a un rediseño de la 'Now Bar' inspirado en la Dynamic Island y nuevas funciones de IA para generación de vídeo; por otro lado, existen reportes de una posible transición a un ciclo bianual para los Galaxy Watch.",
+      "resumen": "La división móvil (MX) de Samsung afronta cambios de liderazgo con Choi Won-joon al frente, mientras la compañía reconsidera sus ciclos de lanzamiento de hardware y mencione formalmente nuevos dispositivos.",
       "puntos_clave": [
-        "Galaxy S27 podría incluir una 'Dynamic Island' y herramienta de edición 'Shorts'.",
-        "Consideración de un ciclo de lanzamiento de 2 años para los relojes Galaxy.",
-        "Se reporta un aumento en los precios de los dispositivos Galaxy de gama media."
+        "Samsung contempla pasar a un ciclo de lanzamiento de dos años para la serie Galaxy Watch a partir de 2027.",
+        "Primera mención oficial por parte de Samsung de la pulsera cuantificadora Galaxy Fit 4.",
+        "Filtraciones apuntan a un rediseño de la 'Now Bar' al estilo Dynamic Island a partir de los Galaxy S27.",
+        "Informes señalan un aumento inevitable de precios en los dispositivos de gama media y entrada (serie Galaxy A)."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios expresan frustración con los errores reportados en la beta de One UI 9.5, particularmente problemas de animaciones y rendimiento, además de debates sobre el valor de los dispositivos actuales ante las ofertas de Black Friday.",
+      "resumen": "La comunidad prueba las primeras versiones beta mientras reporta problemas de rendimiento tras parches recientes y comparte impresiones sobre los últimos accesorios de la marca.",
       "puntos_clave": [
-        "Quejas sobre la pérdida de animaciones fluidas en la beta de One UI 9.5.",
-        "Usuarios reportan degradación de rendimiento post-actualización en el S24.",
-        "Gran interés en las ofertas de Black Friday para la gama Galaxy Watch (7, 8 y 9)."
+        "Bugs reportados en One UI 9.5 Beta 1, destacando fallos y la desaparición de animaciones fluidas en el Panel Rápido.",
+        "Quejas de usuarios por caídas de rendimiento en los Galaxy S24 tras las últimas actualizaciones y demoras de hasta 2 semanas en el servicio técnico.",
+        "Primeras impresiones del SmartTag3 recibidas con curiosidad en Reddit y dudas recurrentes sobre la degradación de baterías por carga rápida."
       ]
     }
   ]
