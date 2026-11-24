@@ -1,33 +1,33 @@
 {
-  "fecha_actualizacion": "24/11/2026 00:45",
-  "titular_semana": "Samsung reestructura su división móvil bajo nuevo liderazgo y acelera el despliegue de One UI 9.5",
+  "fecha_actualizacion": "24/11/2026 08:54",
+  "titular_semana": "Samsung prepara cambios drásticos de diseño en la serie S27 y despliega One UI 9.5",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "La fase beta de One UI 9.5 ya está disponible, revelando cambios en la interfaz, la eliminación de ciertas animaciones en el panel rápido y referencias a una futura versión One UI 10 con diseño de cristal esmerilado.",
+      "resumen": "La beta de One UI 9.5 ya está disponible con importantes cambios internos y nuevas funciones de IA, mientras se han detectado referencias tempranas a una profunda transformación visual en One UI 10.",
       "puntos_clave": [
-        "Lanzamiento de la beta de One UI 9.5 para dispositivos compatibles.",
-        "Hallazgos en firmware sugieren que One UI 10 será una renovación estética mayor.",
-        "Críticas de usuarios por la eliminación de animaciones fluidas en el panel de notificaciones."
+        "One UI 9.5 incluye 80 funciones clave y más de 2.700 cambios en el código.",
+        "Integración de sugerencias inteligentes mediante IA en el navegador Samsung.",
+        "Se confirma el desarrollo de una función para convertir fotos y vídeos en clips tipo 'Shorts'."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Se filtran detalles de cámaras para la serie Z 9 y una posible adopción de una interfaz estilo 'Dynamic Island'. Además, se reportan cambios estratégicos en el calendario de lanzamientos de wearables para mitigar pérdidas financieras.",
+      "resumen": "El Galaxy S27 Ultra apunta a un cambio de diseño significativo eliminando el enfoque láser y la lente de 3x, además de una segmentación de hardware en memorias RAM y almacenamiento.",
       "puntos_clave": [
-        "Filtraciones de cámaras para Galaxy Z Flip 9, Fold 9 y Fold 9 Ultra.",
-        "Samsung podría adoptar una funcionalidad similar a la Dynamic Island de Apple.",
-        "Retraso en el lanzamiento del Galaxy Watch 10 hasta nuevo aviso.",
-        "Lanzamiento comercial del monitor gaming de 1,100Hz."
+        "El S27 Ultra eliminará el módulo de enfoque láser tras años de uso.",
+        "No todos los modelos S27 Pro y Ultra incluirán las nuevas tecnologías LPDDR6 y UFS 5.0.",
+        "Posible adopción de una función estética similar a la 'Dynamic Island' de Apple.",
+        "Cancelación del lanzamiento del Galaxy Watch 10 para 2027 debido a ajustes financieros."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La comunidad debate la identidad visual de One UI frente a la influencia de iOS, mientras los usuarios aprovechan ofertas agresivas en la generación actual de relojes Galaxy antes del Black Friday.",
+      "resumen": "Existe descontento respecto a la nueva dirección de diseño de los flagships, mientras que la división móvil estrena nuevo liderazgo y busca rentabilidad.",
       "puntos_clave": [
-        "Debate intenso sobre la copia de la 'Dynamic Island' y la pérdida de identidad de Samsung.",
-        "Cambio en la jefatura de la división móvil (Won-Joon Choi) genera expectativas sobre la estrategia del próximo Galaxy Z Fold 9.",
-        "Alta demanda de Galaxy Watch 8 debido a precios reducidos y promociones en Amazon."
+        "Críticas en redes por la simplificación estética que parece ignorar la herencia de diseño anterior.",
+        "Choi Won-joon asume el mando de la división móvil en un momento de cambios estratégicos.",
+        "Buen momento para adquirir hardware actual con ofertas agresivas de Black Friday en relojes Galaxy Watch 8 y 9."
       ]
     }
   ]
