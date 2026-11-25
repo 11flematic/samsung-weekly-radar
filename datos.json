@@ -1,33 +1,32 @@
 {
-  "fecha_actualizacion": "24/11/2026 08:54",
-  "titular_semana": "Samsung prepara cambios drásticos de diseño en la serie S27 y despliega One UI 9.5",
+  "fecha_actualizacion": "25/11/2026 00:48",
+  "titular_semana": "Cambios de rumbo en Samsung: nuevo liderazgo en la división móvil, rediseño en camino para One UI y recortes en el Galaxy S27 Ultra",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "La beta de One UI 9.5 ya está disponible con importantes cambios internos y nuevas funciones de IA, mientras se han detectado referencias tempranas a una profunda transformación visual en One UI 10.",
+      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 y completa la expansión global de One UI 9 Watch para el Galaxy Watch 8. Al mismo tiempo, rastros en el firmware anticipan que One UI 10 traerá un rediseño visual radical con texturas translúcidas y la posible incorporación de una función interactiva inspirada en la Dynamic Island, junto a la llegada del bloqueo nativo de apps.",
       "puntos_clave": [
-        "One UI 9.5 incluye 80 funciones clave y más de 2.700 cambios en el código.",
-        "Integración de sugerencias inteligentes mediante IA en el navegador Samsung.",
-        "Se confirma el desarrollo de una función para convertir fotos y vídeos en clips tipo 'Shorts'."
+        "Disponible la beta de One UI 9.5 y despliegue global completado de One UI 9 Watch.",
+        "Filtraciones en el código anticipan que One UI 10 adoptará estética de cristal translúcido e interfaz dinámica.",
+        "Se incorpora la función nativa de bloqueo de aplicaciones, aunque con opciones de configuración limitadas."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "El Galaxy S27 Ultra apunta a un cambio de diseño significativo eliminando el enfoque láser y la lente de 3x, además de una segmentación de hardware en memorias RAM y almacenamiento.",
+      "resumen": "Importantes movimientos estructurales y de hardware sacuden a la compañía: Choi Won-joon asume la dirección de la división móvil MX en un contexto de presión financiera que podría retrasar el Galaxy Watch 10 a un ciclo de dos años. En smartphones, filtraciones confirman que el Galaxy S27 Ultra prescindirá del módulo de autoenfoque láser tras seis generaciones, y se anticipan subidas de precio en la gama media y económica.",
       "puntos_clave": [
-        "El S27 Ultra eliminará el módulo de enfoque láser tras años de uso.",
-        "No todos los modelos S27 Pro y Ultra incluirán las nuevas tecnologías LPDDR6 y UFS 5.0.",
-        "Posible adopción de una función estética similar a la 'Dynamic Island' de Apple.",
-        "Cancelación del lanzamiento del Galaxy Watch 10 para 2027 debido a ajustes financieros."
+        "El Galaxy S27 Ultra prescindirá del enfoque láser por primera vez desde el Galaxy S21 Ultra.",
+        "Samsung contempla pausar el lanzamiento del Galaxy Watch en 2027 y pasar a un ciclo de renovación bienal para mitigar costes.",
+        "Relevo en la cúpula de Samsung MX y advertencia de encarecimiento en dispositivos Galaxy de gama accesible."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Existe descontento respecto a la nueva dirección de diseño de los flagships, mientras que la división móvil estrena nuevo liderazgo y busca rentabilidad.",
+      "resumen": "La comunidad de usuarios muestra división frente a la adopción de conceptos similares a Apple en One UI y el rumbo estético del S27 Ultra. Al mismo tiempo, cobran fuerza las peticiones para que Samsung adopte ciclos de lanzamiento de dos años en la gama alta estándar para ofrecer innovaciones reales, mientras se reporta un molesto bug que afecta la edición en Google Photos.",
       "puntos_clave": [
-        "Críticas en redes por la simplificación estética que parece ignorar la herencia de diseño anterior.",
-        "Choi Won-joon asume el mando de la división móvil en un momento de cambios estratégicos.",
-        "Buen momento para adquirir hardware actual con ofertas agresivas de Black Friday en relojes Galaxy Watch 8 y 9."
+        "Rechazo en redes ante la posible integración de una 'Isla Dinámica', exigiendo a Samsung preservar la identidad de One UI.",
+        "Creciente consenso comunitario a favor de retrasar la serie Galaxy S estándar a lanzamientos cada dos años.",
+        "Usuarios de Galaxy reportan un fallo en Google Photos que fuerza el guardado de cualquier edición como una copia duplicada."
       ]
     }
   ]
