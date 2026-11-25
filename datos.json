@@ -1,32 +1,31 @@
 {
-  "fecha_actualizacion": "25/11/2026 00:48",
-  "titular_semana": "Cambios de rumbo en Samsung: nuevo liderazgo en la división móvil, rediseño en camino para One UI y recortes en el Galaxy S27 Ultra",
+  "fecha_actualizacion": "25/11/2026 08:55",
+  "titular_semana": "Samsung acelera en software y ajustes estratégicos ante un mercado 2027 a la baja",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung ha iniciado el despliegue de la beta de One UI 9.5 y completa la expansión global de One UI 9 Watch para el Galaxy Watch 8. Al mismo tiempo, rastros en el firmware anticipan que One UI 10 traerá un rediseño visual radical con texturas translúcidas y la posible incorporación de una función interactiva inspirada en la Dynamic Island, junto a la llegada del bloqueo nativo de apps.",
+      "resumen": "Se lanza la beta de One UI 9.5 con mejoras críticas para la salud de la batería, mientras surgen pistas sobre un rediseño profundo en One UI 10.",
       "puntos_clave": [
-        "Disponible la beta de One UI 9.5 y despliegue global completado de One UI 9 Watch.",
-        "Filtraciones en el código anticipan que One UI 10 adoptará estética de cristal translúcido e interfaz dinámica.",
-        "Se incorpora la función nativa de bloqueo de aplicaciones, aunque con opciones de configuración limitadas."
+        "One UI 9.5 implementa correcciones para el desgaste prematuro de la batería.",
+        "Hallazgos en el firmware sugieren una interfaz de One UI 10 con estética de vidrio esmerilado."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Importantes movimientos estructurales y de hardware sacuden a la compañía: Choi Won-joon asume la dirección de la división móvil MX en un contexto de presión financiera que podría retrasar el Galaxy Watch 10 a un ciclo de dos años. En smartphones, filtraciones confirman que el Galaxy S27 Ultra prescindirá del módulo de autoenfoque láser tras seis generaciones, y se anticipan subidas de precio en la gama media y económica.",
+      "resumen": "La línea Galaxy S27 Ultra prescindirá del módulo de enfoque láser, y Samsung invierte en tecnología Micro LED ante la incertidumbre del mercado.",
       "puntos_clave": [
-        "El Galaxy S27 Ultra prescindirá del enfoque láser por primera vez desde el Galaxy S21 Ultra.",
-        "Samsung contempla pausar el lanzamiento del Galaxy Watch en 2027 y pasar a un ciclo de renovación bienal para mitigar costes.",
-        "Relevo en la cúpula de Samsung MX y advertencia de encarecimiento en dispositivos Galaxy de gama accesible."
+        "Galaxy S27 Ultra elimina el sensor de enfoque láser por primera vez desde 2021.",
+        "Samsung Display adquiere el 9.1% de ams OSRAM para potenciar su tecnología Micro LED.",
+        "Retraso en el lanzamiento del Galaxy Watch 10 para mitigar pérdidas económicas."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La comunidad de usuarios muestra división frente a la adopción de conceptos similares a Apple en One UI y el rumbo estético del S27 Ultra. Al mismo tiempo, cobran fuerza las peticiones para que Samsung adopte ciclos de lanzamiento de dos años en la gama alta estándar para ofrecer innovaciones reales, mientras se reporta un molesto bug que afecta la edición en Google Photos.",
+      "resumen": "Los usuarios expresan preocupación por el rendimiento de la batería en versiones actuales y debaten sobre la convergencia estética con Apple.",
       "puntos_clave": [
-        "Rechazo en redes ante la posible integración de una 'Isla Dinámica', exigiendo a Samsung preservar la identidad de One UI.",
-        "Creciente consenso comunitario a favor de retrasar la serie Galaxy S estándar a lanzamientos cada dos años.",
-        "Usuarios de Galaxy reportan un fallo en Google Photos que fuerza el guardado de cualquier edición como una copia duplicada."
+        "Quejas en Reddit sobre drenaje de batería tras actualizar a One UI 7.",
+        "Debate encendido sobre la posible adopción de una 'Dynamic Island' al estilo Apple en One UI.",
+        "Peticiones populares para implementar carga por derivación (Bypass Charging) en flagships."
       ]
     }
   ]
