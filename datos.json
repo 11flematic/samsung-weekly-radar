@@ -1,33 +1,32 @@
 {
-  "fecha_actualizacion": "26/11/2026 00:47",
-  "titular_semana": "Samsung perfila One UI 9.5 contra fallos de batería y reestructura sus ciclos de lanzamiento para wearables y la serie S27",
+  "fecha_actualizacion": "26/11/2026 08:53",
+  "titular_semana": "Samsung ajusta su estrategia: posible ciclo bianual para Galaxy Watch y foco en estabilidad de software",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung prepara el despliegue de One UI 9.5, actualización enfocada en corregir el drenaje anómalo y la salud de batería reportados tras la versión 9.0. El software también integrará optimizaciones de Galaxy AI para mejorar la definición del zoom fotográfico, bloqueo biométrico dedicado para Samsung Health y una renovada barra de notificaciones interactivas.",
+      "resumen": "Samsung prioriza la corrección de errores en la actual iteración de software, prometiendo que One UI 9.5 resolverá los problemas de degradación de batería derivados de One UI 9.0.",
       "puntos_clave": [
-        "One UI 9.5 solucionará oficialmente los problemas de degradación y consumo excesivo de batería causados por One UI 9.0.",
-        "Galaxy AI sumará algoritmos de reconstrucción de imagen para tomas de zoom a larga distancia.",
-        "Samsung Health incorporará protección nativa mediante bloqueo por app en la próxima versión del sistema."
+        "Parches de seguridad de noviembre 2026 disponibles para Galaxy A55 y S23.",
+        "One UI 9.5 confirmada como versión correctiva para fallos de batería.",
+        "Avistamientos tempranos de diseño en One UI 10 con estética de vidrio esmerilado."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Filtraciones estratégicas revelan ajustes de costes y diseño en la división MX: la serie Galaxy S27 prescindirá por primera vez del sensor láser de autoenfoque en el modelo Ultra y mantendrá una distribución mixta de procesadores Snapdragon y Exynos. Asimismo, la compañía planea pasar a un ciclo de renovación de dos años para los Galaxy Watch, mientras prepara una tirada limitada de su primer dispositivo triple plegable.",
+      "resumen": "La compañía enfrenta presiones financieras que podrían alterar su calendario de lanzamientos, destacando la posible transición a un ciclo de dos años para los Galaxy Watch.",
       "puntos_clave": [
-        "El Galaxy S27 Ultra eliminará el módulo de autoenfoque láser presente desde la generación S21 Ultra.",
-        "Samsung evalúa cancelar el Galaxy Watch 10 en 2027 para adoptar un ciclo de lanzamiento bianual ante la presión de costes.",
-        "Confirmado el desarrollo del Galaxy Z TriFold 2 bajo tirada inicial exclusiva y limitada.",
-        "Samsung Display adquiere el 9.1% de ams OSRAM para acelerar la viabilidad comercial de la tecnología Micro LED."
+        "Galaxy S27 Ultra prescindiría del módulo de enfoque láser por primera vez desde 2021.",
+        "Se baraja el salto a ciclos bianuales para el Galaxy Watch ante la caída de márgenes.",
+        "Filtraciones sobre el futuro Galaxy Z Fold 9 apuntan a una variante TriFold."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "El descontento por el rendimiento energético domina los foros tras las últimas actualizaciones, acompañado de una fuerte petición para democratizar ajustes de protección de hardware. Paralelamente, los usuarios reclaman en X mantener la identidad visual de One UI frente a la adopción de interfaces similares a la Isla Dinámica de iOS.",
+      "resumen": "Los usuarios en foros muestran preocupación por la eficiencia energética tras las actualizaciones y debaten sobre la durabilidad de los componentes físicos en dispositivos de alta gama.",
       "puntos_clave": [
-        "Petición en Reddit para habilitar el 'Bypass Charging' (alimentación directa sin cargar batería) en todos los flagships de la marca.",
-        "Críticas divididas ante filtraciones que muestran una interfaz dinámica en One UI similar a la de Apple.",
-        "Reiteradas quejas de usuarios sobre autonomía reducida tras actualizar versiones recientes del sistema."
+        "Quejas persistentes por drenaje de batería tras actualizar a One UI 7.",
+        "Debate activo sobre si la carga rápida afecta la salud a largo plazo de la batería.",
+        "Solicitudes masivas en Reddit para implementar 'Bypass Charging' en todos los flagships."
       ]
     }
   ]
