@@ -1,31 +1,33 @@
 {
-  "fecha_actualizacion": "25/11/2026 08:55",
-  "titular_semana": "Samsung acelera en software y ajustes estratégicos ante un mercado 2027 a la baja",
+  "fecha_actualizacion": "26/11/2026 00:47",
+  "titular_semana": "Samsung perfila One UI 9.5 contra fallos de batería y reestructura sus ciclos de lanzamiento para wearables y la serie S27",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Se lanza la beta de One UI 9.5 con mejoras críticas para la salud de la batería, mientras surgen pistas sobre un rediseño profundo en One UI 10.",
+      "resumen": "Samsung prepara el despliegue de One UI 9.5, actualización enfocada en corregir el drenaje anómalo y la salud de batería reportados tras la versión 9.0. El software también integrará optimizaciones de Galaxy AI para mejorar la definición del zoom fotográfico, bloqueo biométrico dedicado para Samsung Health y una renovada barra de notificaciones interactivas.",
       "puntos_clave": [
-        "One UI 9.5 implementa correcciones para el desgaste prematuro de la batería.",
-        "Hallazgos en el firmware sugieren una interfaz de One UI 10 con estética de vidrio esmerilado."
+        "One UI 9.5 solucionará oficialmente los problemas de degradación y consumo excesivo de batería causados por One UI 9.0.",
+        "Galaxy AI sumará algoritmos de reconstrucción de imagen para tomas de zoom a larga distancia.",
+        "Samsung Health incorporará protección nativa mediante bloqueo por app en la próxima versión del sistema."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "La línea Galaxy S27 Ultra prescindirá del módulo de enfoque láser, y Samsung invierte en tecnología Micro LED ante la incertidumbre del mercado.",
+      "resumen": "Filtraciones estratégicas revelan ajustes de costes y diseño en la división MX: la serie Galaxy S27 prescindirá por primera vez del sensor láser de autoenfoque en el modelo Ultra y mantendrá una distribución mixta de procesadores Snapdragon y Exynos. Asimismo, la compañía planea pasar a un ciclo de renovación de dos años para los Galaxy Watch, mientras prepara una tirada limitada de su primer dispositivo triple plegable.",
       "puntos_clave": [
-        "Galaxy S27 Ultra elimina el sensor de enfoque láser por primera vez desde 2021.",
-        "Samsung Display adquiere el 9.1% de ams OSRAM para potenciar su tecnología Micro LED.",
-        "Retraso en el lanzamiento del Galaxy Watch 10 para mitigar pérdidas económicas."
+        "El Galaxy S27 Ultra eliminará el módulo de autoenfoque láser presente desde la generación S21 Ultra.",
+        "Samsung evalúa cancelar el Galaxy Watch 10 en 2027 para adoptar un ciclo de lanzamiento bianual ante la presión de costes.",
+        "Confirmado el desarrollo del Galaxy Z TriFold 2 bajo tirada inicial exclusiva y limitada.",
+        "Samsung Display adquiere el 9.1% de ams OSRAM para acelerar la viabilidad comercial de la tecnología Micro LED."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios expresan preocupación por el rendimiento de la batería en versiones actuales y debaten sobre la convergencia estética con Apple.",
+      "resumen": "El descontento por el rendimiento energético domina los foros tras las últimas actualizaciones, acompañado de una fuerte petición para democratizar ajustes de protección de hardware. Paralelamente, los usuarios reclaman en X mantener la identidad visual de One UI frente a la adopción de interfaces similares a la Isla Dinámica de iOS.",
       "puntos_clave": [
-        "Quejas en Reddit sobre drenaje de batería tras actualizar a One UI 7.",
-        "Debate encendido sobre la posible adopción de una 'Dynamic Island' al estilo Apple en One UI.",
-        "Peticiones populares para implementar carga por derivación (Bypass Charging) en flagships."
+        "Petición en Reddit para habilitar el 'Bypass Charging' (alimentación directa sin cargar batería) en todos los flagships de la marca.",
+        "Críticas divididas ante filtraciones que muestran una interfaz dinámica en One UI similar a la de Apple.",
+        "Reiteradas quejas de usuarios sobre autonomía reducida tras actualizar versiones recientes del sistema."
       ]
     }
   ]
