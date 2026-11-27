@@ -1,34 +1,32 @@
 {
-  "fecha_actualizacion": "27/11/2026 00:52",
-  "titular_semana": "El Galaxy S27 Ultra perfila un drástico rediseño de cámara mientras One UI 9.5 eleva la apuesta por la IA generativa",
+  "fecha_actualizacion": "27/11/2026 08:53",
+  "titular_semana": "Filtraciones del Galaxy S27 Ultra anticipan cambios drásticos en cámara mientras toma fuerza el primer TriFold de la marca",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "Samsung avanza en el desarrollo de One UI 9.5 con importantes funciones de inteligencia artificial generativa orientadas a la fotografía y la automatización contextual. Paralelamente, la marca mantiene su soporte retroactivo extendiendo métricas de salud recientes a generaciones anteriores de relojes y trabajando en alertas inteligentes para preservar la batería.",
+      "resumen": "Samsung avanza con el despliegue del parche de seguridad de noviembre en su gama plegable y expande One UI a tablets de entrada. En paralelo, prepara funciones predictivas de carga, automatización mediante IA en Samsung Messages y una solución de interfaz interactiva similar a la Dynamic Island.",
       "puntos_clave": [
-        "Herramienta Recompose en One UI 9.5: permitirá cambiar la perspectiva geométrica de fotos ya capturadas mediante IA generativa.",
-        "Modos y Rutinas integrará capacidades de 'Ask AI' y nuevos preajustes para automatizar tareas del sistema.",
-        "Funciones avanzadas de salud introducidas en el Galaxy Watch 9 comenzarán a llegar a modelos Galaxy Watch de generaciones previas.",
-        "Implementación en curso de avisos inteligentes de recarga y un modo de transporte seguro de baterías."
+        "Llegada del parche de seguridad de noviembre a los Galaxy Z Fold 6 y Flip 6, junto con la expansión de One UI 9.0 en la Galaxy Tab A11+.",
+        "Desarrollo de alertas predictivas de carga inteligente y capacidades automáticas para redactar y reenviar textos en Samsung Messages.",
+        "Pruebas de una interfaz interactiva tipo 'Dynamic Island' y primer parche de software para los Galaxy Buds On."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "La cadena de suministro y fabricantes de accesorios han revelado cambios clave en el diseño del Galaxy S27 Ultra, destacando un módulo de cámaras reestructurado que prescinde de componentes históricos. En el terreno plegable y de wearables, emergen reportes sobre la llegada del primer TriFold en la línea Fold 9 y un posible retraso estratégico en la siguiente generación de Galaxy Watch.",
+      "resumen": "La hoja de ruta de hardware revela ajustes estratégicos notables: el Galaxy S27 Ultra prescindiría del sensor láser y teleobjetivo dedicado para apoyarse en zoom por IA, la línea Z Fold 9 sumaría un formato TriFold, y el Galaxy Watch 10 podría pausar su ciclo habitual para mitigar costes de memoria.",
       "puntos_clave": [
-        "Galaxy S27 Ultra eliminará el enfoque láser tras cinco años de uso y suprimirá el teleobjetivo 3x dedicado, delegando el zoom a recorte del sensor principal y algoritmos de IA.",
-        "La línea Galaxy Z Fold 9 incluiría una variante TriFold de triple pantalla para competir directamente en el nuevo segmento plegable.",
-        "Reportes sugieren que el Galaxy Watch 10 no llegará en 2027 debido a ajustes de costes y suministros de memoria.",
-        "Pruebas de interfaz señalan que Samsung estaría desarrollando una solución flotante interactiva similar a la Dynamic Island."
+        "El Galaxy S27 Ultra rediseñará su módulo de cámaras eliminando el enfoque láser y el sensor 3x a favor de recorte de sensor e IA.",
+        "Indicios sólidos señalan la llegada de un dispositivo plegable de triple pantalla (TriFold) en la serie Z Fold 9.",
+        "El Galaxy Watch 10 cancelaría o retrasaría su lanzamiento previsto para 2027 debido a la crisis de costes de memoria (RAMageddon)."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Existe marcada inquietud entre los usuarios entusiastas por el aparente recorte de hardware en el futuro flagship Ultra. A la par, se intensifican las discusiones sobre si Samsung debería abandonar la cadencia anual de lanzamientos en sus modelos base para evitar mejoras marginales, mientras que la compra de buques insignia de años anteriores gana atractivo ante la subida de precios en la gama de entrada.",
+      "resumen": "Los usuarios concentran sus reclamos en la eficiencia energética y la longevidad de los dispositivos, solicitando funciones avanzadas de gestión de batería a nivel de sistema y cuestionando la necesidad de lanzamientos anuales con cambios menores.",
       "puntos_clave": [
-        "Rechazo generalizado a la sustitución de hardware óptico por software y recorte digital en un dispositivo de rango 'Ultra'.",
-        "Debate creciente en X y foros proponiendo ciclos de lanzamiento bianuales para los Galaxy S y S+ para asegurar saltos tecnológicos reales.",
-        "Usuarios y analistas recomiendan priorizar la compra de gamas altas de generaciones anteriores frente al encarecimiento proyectado de la serie Galaxy A."
+        "Campaña comunitaria solicitando la implementación global de Bypass Charging en todos los flagships Galaxy.",
+        "Reiteradas quejas por consumo elevado y drenaje de batería en modelos Galaxy S23 tras actualizar de versión.",
+        "Creciente debate sobre pausar la renovación anual obligatoria y pasar a ciclos bianuales en modelos base como la serie S."
       ]
     }
   ]
