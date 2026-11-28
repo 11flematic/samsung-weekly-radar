@@ -1,32 +1,32 @@
 {
-  "fecha_actualizacion": "28/11/2026 00:48",
-  "titular_semana": "El Galaxy S27 Ultra rediseña su módulo de cámaras y One UI 9.5 anticipa funciones de IA y nueva interfaz",
+  "fecha_actualizacion": "28/11/2026 08:41",
+  "titular_semana": "Filtraciones del Galaxy S27 Ultra y novedades en One UI 9.5 dominan la actualidad de Samsung",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "El análisis del código de One UI 9.5 Beta 1 revela la integración de herramientas generativas de video ('Shorts') y una solución de interfaz interactiva similar a la Dynamic Island. En paralelo, One UI 9.0 se expande a la Galaxy Tab A11+, mientras que los plegables Z Flip 6 y Z Fold 6 reciben el parche de seguridad correspondiente a noviembre.",
+      "resumen": "Samsung avanza en el soporte de software desplegando el parche de seguridad de noviembre en los Galaxy Z Fold 6 y Z Flip 6, además de expandir One UI 9.0 a la Galaxy Tab A11+. En el frente de desarrollo, la suite Home Up recibe una actualización relevante para One UI 9.5 con amplio control de personalización estética, mientras que inspecciones de código revelan pruebas de una interfaz estilo 'Dynamic Island' y funciones destinadas a la próxima generación de gama alta.",
       "puntos_clave": [
-        "One UI 9.5 integrará generación automatizada de videos y una interfaz dinámica en pantalla.",
-        "Despliegue del parche de seguridad de noviembre de 2026 para Galaxy Z Flip 6 y Fold 6.",
-        "Galaxy Tab A11+ amplía la disponibilidad internacional de One UI 9.0; Galaxy S23 FE recibe actualización menor intermedia."
+        "Home Up se actualiza para One UI 9.5 con personalización de tamaño de iconos, transiciones y desenfoque de carpetas.",
+        "Despliegue del parche de seguridad de noviembre para los Galaxy Z Fold 6 y Flip 6, y expansión de One UI 9.0 en Tab A11+.",
+        "Descubiertas referencias a funciones de interfaz dinámica y características de la serie S27 en el código de One UI 9.5 Beta 1."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Filtraciones de diseño y fundas confirman una reestructuración drástica en el Galaxy S27 Ultra: prescindirá del módulo de autoenfoque láser y del teleobjetivo dedicado de 3x, compensándolo con un sensor principal de alto rendimiento nocturno y zoom por recorte con IA. En plegables, la futura serie Z Fold 9 perfila un dispositivo TriFold, mientras que el Galaxy Watch 10 retrasaría su debut.",
+      "resumen": "Las filtraciones sobre el Galaxy S27 Ultra revelan un rediseño que prescinde del módulo de enfoque láser utilizado desde 2021, apostando por un nuevo sensor principal con rendimiento notablemente superior en foto y vídeo nocturno. Paralelamente, se apunta a la llegada de un formato 'TriFold' en la serie Z Fold 9, una cámara de 50 MP para el futuro Galaxy XCover y avances en memorias V-NAND de más de 500 capas previstas para 2027.",
       "puntos_clave": [
-        "Galaxy S27 Ultra eliminará el sensor láser de enfoque y la cámara 3x dedicada en favor de procesamiento por IA.",
-        "Mejora sustancial en captura nocturna de foto y video para el nuevo sensor principal del S27 Ultra.",
-        "Reportes apuntan al desarrollo de un Galaxy Z Fold 9 TriFold y al aplazamiento del Galaxy Watch 10 por costes de componentes."
+        "Galaxy S27 Ultra eliminará el módulo láser de autofoco para dar paso a un sensor principal mejor optimizado para baja luz.",
+        "Filtraciones sugieren que la familia Galaxy Z Fold 9 incluirá un dispositivo con formato plegable triple (TriFold).",
+        "Samsung desarrolla la 11ª generación de memoria V-NAND con más de 500 capas y capacidades de hasta 1.5 Tb."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "La conversación entre usuarios se centra en el debate sobre la sustitución de hardware óptico por algoritmos en la gama Ultra, junto con una fuerte revalorización de modelos de generaciones previas debido a descuentos de Black Friday que alcanzan hasta los 900 dólares en el Z Fold 8.",
+      "resumen": "La comunidad se ha volcado en la temporada de descuentos de Black Friday, celebrando ofertas agresivas en el Galaxy Z Fold 8 y debatiendo el valor de adquirir modelos de generaciones previas frente a los lanzamientos más recientes. Asimismo, causó revuelo un error puntual de precio en Amazon que permitió conseguir el Galaxy S26 Ultra por solo 130 dólares antes de ser cancelado o corregido.",
       "puntos_clave": [
-        "Escepticismo en la comunidad ante la pérdida de sensores dedicados en el futuro buque insignia.",
-        "Revalorización de la compra de 'antiguos' Galaxy frente al coste de lanzamiento de nuevos modelos.",
-        "Impacto viral por un error puntual de precio en Amazon que liquidó unidades del Galaxy S26 Ultra a 130 dólares."
+        "Un fallo de etiquetado en Amazon permitió la compra del Galaxy S26 Ultra por 130 dólares a varios compradores rápidos.",
+        "Fuerte recepción comunitaria ante rebajas de hasta 900 dólares en el Galaxy Z Fold 8 y promociones en el Galaxy Watch 9.",
+        "Debate extendido entre usuarios recomendando la compra de modelos Galaxy anteriores por su óptima relación costo-beneficio."
       ]
     }
   ]
