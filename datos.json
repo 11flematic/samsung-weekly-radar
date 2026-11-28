@@ -1,31 +1,32 @@
 {
-  "fecha_actualizacion": "27/11/2026 16:55",
-  "titular_semana": "El Galaxy S27 Ultra lidera la actualidad con cambios radicales en su sistema de cámaras",
+  "fecha_actualizacion": "28/11/2026 00:48",
+  "titular_semana": "El Galaxy S27 Ultra rediseña su módulo de cámaras y One UI 9.5 anticipa funciones de IA y nueva interfaz",
   "bloques": [
     {
       "categoria": "One UI y Actualizaciones",
-      "resumen": "El análisis del código de One UI 9.5 Beta 1 ha revelado más de 30 funciones de IA exclusivas destinadas a la serie Galaxy S27.",
+      "resumen": "El análisis del código de One UI 9.5 Beta 1 revela la integración de herramientas generativas de video ('Shorts') y una solución de interfaz interactiva similar a la Dynamic Island. En paralelo, One UI 9.0 se expande a la Galaxy Tab A11+, mientras que los plegables Z Flip 6 y Z Fold 6 reciben el parche de seguridad correspondiente a noviembre.",
       "puntos_clave": [
-        "Hallazgos en APK sugieren una integración profunda de IA en One UI 9.5.",
-        "Usuarios reportan problemas de drenaje de batería tras actualizar a versiones previas de One UI 7."
+        "One UI 9.5 integrará generación automatizada de videos y una interfaz dinámica en pantalla.",
+        "Despliegue del parche de seguridad de noviembre de 2026 para Galaxy Z Flip 6 y Fold 6.",
+        "Galaxy Tab A11+ amplía la disponibilidad internacional de One UI 9.0; Galaxy S23 FE recibe actualización menor intermedia."
       ]
     },
     {
       "categoria": "Filtraciones y Hardware",
-      "resumen": "Fuertes rumores indican que el Galaxy S27 Ultra prescindirá del módulo de enfoque láser y del teleobjetivo 3x, apostando por IA y recorte de sensor.",
+      "resumen": "Filtraciones de diseño y fundas confirman una reestructuración drástica en el Galaxy S27 Ultra: prescindirá del módulo de autoenfoque láser y del teleobjetivo dedicado de 3x, compensándolo con un sensor principal de alto rendimiento nocturno y zoom por recorte con IA. En plegables, la futura serie Z Fold 9 perfila un dispositivo TriFold, mientras que el Galaxy Watch 10 retrasaría su debut.",
       "puntos_clave": [
-        "Galaxy S27 Ultra: Posible eliminación de hardware de cámara tradicional en favor de soluciones digitales.",
-        "El Galaxy Z Fold 9 podría incorporar un nuevo diseño TriFold.",
-        "El Galaxy Watch 10 retrasaría su lanzamiento para 2027 debido a ajustes estratégicos de Samsung."
+        "Galaxy S27 Ultra eliminará el sensor láser de enfoque y la cámara 3x dedicada en favor de procesamiento por IA.",
+        "Mejora sustancial en captura nocturna de foto y video para el nuevo sensor principal del S27 Ultra.",
+        "Reportes apuntan al desarrollo de un Galaxy Z Fold 9 TriFold y al aplazamiento del Galaxy Watch 10 por costes de componentes."
       ]
     },
     {
       "categoria": "Pulso de la Comunidad",
-      "resumen": "Los usuarios en foros muestran frustración con aspectos técnicos y de servicio, mientras aprovechan las ofertas masivas del Black Friday.",
+      "resumen": "La conversación entre usuarios se centra en el debate sobre la sustitución de hardware óptico por algoritmos en la gama Ultra, junto con una fuerte revalorización de modelos de generaciones previas debido a descuentos de Black Friday que alcanzan hasta los 900 dólares en el Z Fold 8.",
       "puntos_clave": [
-        "Quejas persistentes sobre el soporte técnico postventa y tiempos de reparación.",
-        "Debate activo sobre el uso de carga rápida y su impacto real en la degradación de la batería.",
-        "Éxito comercial de las ofertas actuales en Galaxy Z Fold 8 y Galaxy A56."
+        "Escepticismo en la comunidad ante la pérdida de sensores dedicados en el futuro buque insignia.",
+        "Revalorización de la compra de 'antiguos' Galaxy frente al coste de lanzamiento de nuevos modelos.",
+        "Impacto viral por un error puntual de precio en Amazon que liquidó unidades del Galaxy S26 Ultra a 130 dólares."
       ]
     }
   ]
